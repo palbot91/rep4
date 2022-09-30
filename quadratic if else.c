@@ -1,4 +1,3 @@
-//Roots of Quadratic equations //
 #include<stdio.h>
 #include<math.h>
 int main()
